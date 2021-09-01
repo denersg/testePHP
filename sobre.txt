@@ -1,1 +1,1 @@
-Arquivos de teste em PHP
+Arquivos de teste em PHP. Vão ser adicionados mais alguns arquivos para estudo.
