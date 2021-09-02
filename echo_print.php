@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Curso PHP</title>
+        <title>Teste de impressão em PHP</title>
     </head>
 
     <body>
